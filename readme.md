@@ -1,0 +1,1 @@
+a simple brawl stars v29 server
